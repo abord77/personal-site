@@ -285,6 +285,13 @@ p {
   width: 40%;
 }
 
+.art-images {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
 .pdf-viewer {
   width: 50%;
   height: 75%;
